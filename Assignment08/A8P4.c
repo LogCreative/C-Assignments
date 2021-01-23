@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+/* A8P4 - 输入数组，最大的与第一个元素交换，最小的与最后一个元素交换，输出数组。请用指针完成。 */
 
 int main() {
 	int MAXLINE;

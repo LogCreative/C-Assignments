@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 6: 英里转化为公里 */
+/* A1P6 - 英里转化为公里 */
 
 int main() {
 	float mile, km;

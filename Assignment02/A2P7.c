@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+/* A2P7 - 计算二维平面上的矩形面积与周长 */
 
 int main() {
 	float x1, y1, x2, y2, x3, y3, x4, y4;

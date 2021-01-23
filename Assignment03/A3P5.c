@@ -1,6 +1,6 @@
 #include<stdio.h>
+/* A3P5 - 打印101-200中所有素数 */
 
-/* Problem 5: 打印101-200中所有素数 */
 int main() {
 	int i;
 	int j;//循环内层因子

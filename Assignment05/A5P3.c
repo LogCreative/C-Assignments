@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+/* A5P3 - 利用泰勒展开，估计e 的值，保留6 位有效数字 */
 
 int main() {
 	double e;

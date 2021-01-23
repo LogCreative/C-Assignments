@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 2: 整齐输出九个整数 */
+/* A1P2 - 整齐输出九个整数 */
 
 int main() {
 	int num[9]; //创建数组

@@ -1,5 +1,7 @@
 #include<stdio.h>
 #include<math.h>
+/* A4P3 - 一个整数，它加上100 后是一个完全平方数，再加上168 又是一个完全平方数，请问该数是多少. */
+
 #define MAXTEST 235 /* x+100=y^2<2z^2=2x+336 x<236 */
 
 int main() {

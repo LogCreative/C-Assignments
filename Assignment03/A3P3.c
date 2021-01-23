@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+/* A3P3 - 打印Z<= 50 的所有勾股数。 */
 
 int main() {
 	int x, y, z;

@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A2P2 - 利用printf 函数输出计算值 */
 
 int main() {
 	printf("%d\n", 1 < 4 && 4 < 7);

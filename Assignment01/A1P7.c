@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 7: 三数最大与最小 */
+/* A1P7 - 三数最大与最小 */
 
 int main() {
 	int num1, num2,num3;

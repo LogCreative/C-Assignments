@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 3: 四整数平均值 */
+/* A1P3 - 四整数平均值 */
 
 int main() {
 	int a, b, c, d;

@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 5: 水果售货机 */
+/* A1P5 - 水果售货机 */
 
 int main() {
 	float apple, pear, banana, orange;

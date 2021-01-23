@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A5P4 - 编写一个函数，求输入整数的素因数分解 */
 
 int main() {
 	int num;

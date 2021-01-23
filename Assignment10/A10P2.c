@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+/* A10P2 - 计算两个日期之间的天数，例如1939.2.28 和1944.7.22 之间的天数. 要求：定义一个全局结构，函数之间用结构变量传递。提示，可以把日期化为日。*/
 
 struct date {
 	int year, month, day;

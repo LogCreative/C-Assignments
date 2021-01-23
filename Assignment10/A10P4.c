@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+/* A10P4 - 编写程序，从键盘输入n (n<10) 个学生的学号、成绩并存入结构数组中，按成绩从低到高排序并输出排序后的学生信息。*/
 
 #define NUM 10
 

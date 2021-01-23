@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A2P1 - 写一段程序, 计算下列表达式的值, 并用科学记数法显示计算结果 */
 
 int main() {
 	double x, y, s;

@@ -1,4 +1,7 @@
 #include<stdio.h>
+/* A11P4 - 试定义一个rationalT, 用来表示一个有理数。函数CreateRational(num,den) 返回一个
+rationalT 类型的值, 另外分别构造两个有理数相加, 相乘的函数。
+*/
 
 struct rationalT {
 	int num;//分子

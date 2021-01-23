@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
+/* A9P4 - 对于一个m*n 的矩阵，找到其最大值，并且输出行下标和列下标（如果有多个最大值，则全部输出），要求使用指针。 */
 
 #define MAXLINE 100
 

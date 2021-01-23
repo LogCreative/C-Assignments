@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-/* Problem 4: 计算两点之间的距离 */
+/* A1P4 - 计算两点之间的距离 */
 
 int main() {
 	float x1, y1, x2, y2;

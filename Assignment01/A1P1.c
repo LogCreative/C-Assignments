@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem1: 整型数加和程序 */
+/* A1P1 - 整型数加和程序 */
 
 int notmain() {
 	int a, b;

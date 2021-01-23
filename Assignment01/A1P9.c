@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 9: 三角形形状判定 */
+/* A1P9 - 三角形形状判定 */
 
 int main() {
 	float a, b, c; //三角形三边长度

@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<math.h>
+/* A7P3 - 如果n 和n+2 都是素数，则称它们是孪生素数。输入m, 输出两个数均不超过m 的最大孪生素数。5 <= m <= 10000 。 */
 
 int main() {
 	int m;//搜索最大值

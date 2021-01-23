@@ -1,5 +1,6 @@
 #include<stdio.h>
-/* Problem 4 */
+/* A3P4 - 输入某年某月某日，判断这一天是这一年的第几天？ */
+
 int main() {
 	int year, month, day;
 	int dayofmonth[13];

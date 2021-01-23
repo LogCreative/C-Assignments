@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/* A9P2 - 有n 个人围成一圈，顺序排号。从第一个人开始报数（从1 到3 报数），凡报到3 的人退出圈子，问最后留下的是原来第几号的那位。*/
 
 int main() {
 	int n;

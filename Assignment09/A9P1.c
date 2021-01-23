@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+/* A9P1 - 输入数组，将数组中0 都移至数组末尾，其余项顺序不变，输出数组 */
 
 int main() {
 	int length;

@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A7P2 - 在n*n 的方阵里填入1，2，...，n*n , 要求填成蛇形。 */
 
 #define MAXLINE 50
 

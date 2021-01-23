@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 8: ∆Ê≈º≈–∂®*/
+/* A1P8 - ∆Ê≈º≈–∂®*/
 
 int main() {
 	int input;

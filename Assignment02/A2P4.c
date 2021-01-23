@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A2P4 - 判断该字母是元音还是辅音字母 */
 
 int main() {
 	char ch;

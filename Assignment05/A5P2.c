@@ -1,5 +1,8 @@
 #include<stdio.h>
 #include<math.h>
+/* A5P2 - 编写一个函数，求解
+ax^2 + bx + c = 0
+要求考虑实根、虚根等情况。 */
 
 int main() {
 	double a, b, c;

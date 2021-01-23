@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A2P6 - 输入二维平面上的三个点，判断这三个点是否在一条直线上. */
 
 int main() {
 	double x1, y1, x2, y2, x3, y3;

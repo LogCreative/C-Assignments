@@ -1,4 +1,5 @@
 #include<stdio.h>
+/* A5P1 - 编写函数求两个数的最大公约数和最小公倍数 */
 
 int main() {
 	int a, b;

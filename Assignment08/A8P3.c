@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <string.h>
+/* A8P3 - 编写函数，计算两个时刻之间的时间差，时间以时：分：秒表示。 */
 
 int main() {
 	char time1[9], time2[9];//存储时间字符串

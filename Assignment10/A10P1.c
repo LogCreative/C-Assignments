@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<windows.h>
+/* A10P1 - 对12 个人出生年月日, 用shell 排序法, 按年龄( 以月为单位, 年龄化成月) 从小到大进行排序, 要求定义一个全局结构和一个名为sort-month 的函数, 经过排序的数据, 在main 函数中整齐有序输出。 */
 
 #define NUM 12
 

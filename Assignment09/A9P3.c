@@ -1,4 +1,5 @@
 #include <stdio.h>
+/* A9P3 - 编写一个函数, 这个函数的功能是：求出一个整型数的偶数因子，并按从小到大的顺序放到一个数组里，输出数组和数组长度。 */
 
 int main() {
 	int evenfactor(int num);

@@ -1,5 +1,5 @@
 #include<stdio.h>
-/* Problem 2 */
+/* A3P2 - 在100-1000 的数之间, 满足被4 除余2, 被7 除余3, 被9 除余5 的数有几个并输出满足条件的数。 */
 
 int main() {
 	int i,count;
